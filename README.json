@@ -1,0 +1,451 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper.cpp",
+          "description": "Port of Whisper in C++.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bindings for many languages",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-07T18:59:53Z",
+                "owner": "ggml-org",
+                "repo": "whisper.cpp",
+                "stars": 52855
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T18:59:53Z",
+            "owner": "ggml-org",
+            "repo": "whisper.cpp",
+            "stars": 52855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faster-whisper",
+          "description": "Faster reimplementation of Whisper using CTranslate2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T14:40:46Z",
+            "owner": "SYSTRAN",
+            "repo": "faster-whisper",
+            "stars": 24881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhisperX",
+          "description": "Adds fast automatic speaker recognition with word-level timestamps and speaker diarization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T08:30:07Z",
+            "owner": "m-bain",
+            "repo": "whisperX",
+            "stars": 23550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper JAX",
+          "description": "JAX implementation of Whisper for up to 70x speed-up on TPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-03T12:12:52Z",
+            "owner": "sanchit-gandhi",
+            "repo": "whisper-jax",
+            "stars": 4683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper-timestamped",
+          "description": "Adds word-level timestamps and confidence scores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T07:04:36Z",
+            "owner": "linto-ai",
+            "repo": "whisper-timestamped",
+            "stars": 2837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper-AT",
+          "description": "Whisper that can recognize non-speech audio events in addition to speech.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-21T17:57:49Z",
+            "owner": "YuanGongND",
+            "repo": "whisper-at",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper-openvino",
+          "description": "Whisper running on OpenVINO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-06T10:15:05Z",
+            "owner": "zhuzilin",
+            "repo": "whisper-openvino",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper.tflite",
+          "description": "Whisper running on TensorFlow Lite.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-08-28T21:26:54Z",
+            "owner": "moonshine-ai",
+            "repo": "openai-whisper",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Model variants"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Buzz",
+          "description": "Audio transcription and translation macOS app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T09:43:12Z",
+            "owner": "chidiwilliams",
+            "repo": "buzz",
+            "stars": 20930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoiceInk",
+          "description": "Dictation and transcription macOS app. (FOSS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T13:47:51Z",
+            "owner": "Beingpax",
+            "repo": "VoiceInk",
+            "stars": 5836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSuperWhisper",
+          "description": "Dictation app for macOS. (FOSS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T19:05:31Z",
+            "owner": "Starmel",
+            "repo": "OpenSuperWhisper",
+            "stars": 2594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeWhisper",
+          "description": "Local speech-to-text transcription for macOS and Windows with system-wide dictation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T10:10:10Z",
+            "owner": "TypeWhisper",
+            "repo": "typewhisper-mac",
+            "stars": 1687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speech Note",
+          "description": "Audio transcription Linux app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T14:15:37Z",
+            "owner": "mkiol",
+            "repo": "dsnote",
+            "stars": 1559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisper",
+          "description": "Android app for transcription and translation. (FOSS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T08:54:54Z",
+            "owner": "woheller69",
+            "repo": "whisperIME",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ito AI",
+          "description": "AI voice dictation for Mac. (FOSS)",
+          "children": []
+        }
+      ],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WaaS",
+          "description": "GUI and API for Whisper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T16:59:06Z",
+            "owner": "schibsted",
+            "repo": "WAAS",
+            "stars": 2074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subs AI",
+          "description": "Subtitle generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T01:29:19Z",
+            "owner": "absadiki",
+            "repo": "subsai",
+            "stars": 1680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "writeout.ai",
+          "description": "Laravel app to transcribe and translate audio files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-30T13:36:08Z",
+            "owner": "beyondcode",
+            "repo": "writeout.ai",
+            "stars": 1526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meeper",
+          "description": "Transcriptions, summary and more for meetings and any browser tab. (Chrome app)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-27T23:13:20Z",
+            "owner": "serg-plusplus",
+            "repo": "meeper",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Self-hosted"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "whisper-diarization",
+          "description": "Automatic speech recognition with speaker diarization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T16:01:02Z",
+            "owner": "MahmoudAshraf97",
+            "repo": "whisper-diarization",
+            "stars": 5617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper-standalone-win",
+          "description": "Standalone Windows executable for Whisper and Faster Whisper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-07T19:21:55Z",
+            "owner": "Purfview",
+            "repo": "whisper-standalone-win",
+            "stars": 3148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yt-whisper",
+          "description": "YouTube subtitle generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T09:18:11Z",
+            "owner": "m1guelpf",
+            "repo": "yt-whisper",
+            "stars": 1446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper-ctranslate2",
+          "description": "Whisper command-line tool based on CTranslate2, compatible with the original.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-14T19:16:02Z",
+            "owner": "Softcatala",
+            "repo": "whisper-ctranslate2",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "insanely-fast-whisper-cli",
+          "description": "Achieve transcription speeds near 30x real-time with several optimizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-08T06:51:47Z",
+            "owner": "ochen1",
+            "repo": "insanely-fast-whisper-cli",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hns",
+          "description": "On-device speech-to-text CLI using faster-whisper with automatic clipboard copy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T12:22:46Z",
+            "owner": "primaprashant",
+            "repo": "hns",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phonix",
+          "description": "Generate captions for videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-28T20:27:19Z",
+            "owner": "platisd",
+            "repo": "phonix",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "CLI tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monster API",
+          "description": "Whisper demo running on Monster API. (Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-12T02:54:11Z",
+            "owner": "saharmor",
+            "repo": "whisper-playground",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Video Transcription",
+          "description": "Running on Colab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-23T19:24:04Z",
+            "owner": "ArthurFDLR",
+            "repo": "whisper-youtube",
+            "stars": 421
+          }
+        }
+      ],
+      "title": "Playgrounds"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Packages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:02.620Z",
+    "original_repository": "sindresorhus/awesome-whisper",
+    "original_repository_sha": "9fb0f085de291ab3c89034783ab652d33cf70daf",
+    "enhanced_repository": "enhansome/enhansome-whisper",
+    "enhanced_repository_description": null,
+    "title": "Awesome whisper with stars"
+  }
+}

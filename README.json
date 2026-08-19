@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,21 +15,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 541269386,
                 "language": "C++",
                 "last_commit": "2026-08-18T12:33:22Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 52999
+                "stars": 53030
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 541269386,
             "language": "C++",
             "last_commit": "2026-08-18T12:33:22Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 52999
+            "stars": 53030
           }
         },
         {
@@ -39,11 +41,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600368121,
             "language": "Python",
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24970
+            "stars": 24990
           }
         },
         {
@@ -53,11 +56,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576103395,
             "language": "Python",
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23624
+            "stars": 23645
           }
         },
         {
@@ -67,11 +71,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 608634021,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-03T12:12:52Z",
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4682
+            "stars": 4680
           }
         },
         {
@@ -81,11 +86,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588543419,
             "language": "Python",
             "last_commit": "2026-08-17T06:41:29Z",
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
-            "stars": 2839
+            "stars": 2840
           }
         },
         {
@@ -95,6 +101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 663202846,
             "language": "Python",
             "last_commit": "2024-02-21T17:57:49Z",
             "owner": "YuanGongND",
@@ -109,6 +116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 543577489,
             "language": "Jupyter Notebook",
             "last_commit": "2023-11-06T10:15:05Z",
             "owner": "zhuzilin",
@@ -123,6 +131,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 542345274,
             "language": "C",
             "last_commit": "2023-08-28T21:26:54Z",
             "owner": "moonshine-ai",
@@ -134,7 +143,7 @@
       "title": "Model variants"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -143,11 +152,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540842713,
             "language": "Python",
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21025
+            "stars": 21033
           }
         },
         {
@@ -157,11 +167,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-17T14:31:39Z",
+            "last_commit": "2026-08-19T09:34:53Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5965
+            "stars": 5980
           }
         },
         {
@@ -171,11 +182,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 928610758,
             "language": "Swift",
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2637
+            "stars": 2643
           }
         },
         {
@@ -185,11 +197,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:56:41Z",
+            "last_commit": "2026-08-19T12:07:51Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1703
+            "stars": 1707
           }
         },
         {
@@ -199,11 +212,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414686117,
             "language": "C++",
             "last_commit": "2026-07-25T14:15:37Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1597
+            "stars": 1602
           }
         },
         {
@@ -213,91 +227,92 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 910022509,
             "language": "Java",
             "last_commit": "2026-08-04T08:54:54Z",
             "owner": "woheller69",
             "repo": "whisperIME",
             "stars": 618
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ito AI",
-          "description": "AI voice dictation for Mac. (FOSS)",
-          "children": []
         }
       ],
       "title": "Apps"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WaaS",
+              "description": "GUI and API for Whisper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550775432,
+                "language": "JavaScript",
+                "last_commit": "2026-07-02T16:59:06Z",
+                "owner": "schibsted",
+                "repo": "WAAS",
+                "stars": 2075
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Subs AI",
+              "description": "Subtitle generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607457910,
+                "language": "Python",
+                "last_commit": "2026-04-20T01:29:19Z",
+                "owner": "absadiki",
+                "repo": "subsai",
+                "stars": 1680
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "writeout.ai",
+              "description": "Laravel app to transcribe and translate audio files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610764901,
+                "language": "PHP",
+                "last_commit": "2026-06-30T13:36:08Z",
+                "owner": "beyondcode",
+                "repo": "writeout.ai",
+                "stars": 1525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meeper",
+              "description": "Transcriptions, summary and more for meetings and any browser tab. (Chrome app)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627154786,
+                "language": "TypeScript",
+                "last_commit": "2025-04-27T23:13:20Z",
+                "owner": "serg-plusplus",
+                "repo": "meeper",
+                "stars": 84
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Self-hosted"
+        }
+      ],
       "title": "Web apps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WaaS",
-          "description": "GUI and API for Whisper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-02T16:59:06Z",
-            "owner": "schibsted",
-            "repo": "WAAS",
-            "stars": 2075
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Subs AI",
-          "description": "Subtitle generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-20T01:29:19Z",
-            "owner": "absadiki",
-            "repo": "subsai",
-            "stars": 1680
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "writeout.ai",
-          "description": "Laravel app to transcribe and translate audio files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-30T13:36:08Z",
-            "owner": "beyondcode",
-            "repo": "writeout.ai",
-            "stars": 1525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meeper",
-          "description": "Transcriptions, summary and more for meetings and any browser tab. (Chrome app)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-04-27T23:13:20Z",
-            "owner": "serg-plusplus",
-            "repo": "meeper",
-            "stars": 84
-          }
-        }
-      ],
-      "title": "Self-hosted"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -306,11 +321,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 593408514,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T09:11:27Z",
             "owner": "MahmoudAshraf97",
             "repo": "whisper-diarization",
-            "stars": 5626
+            "stars": 5627
           }
         },
         {
@@ -320,11 +336,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606520610,
             "language": null,
             "last_commit": "2025-11-07T19:21:55Z",
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 3158
+            "stars": 3160
           }
         },
         {
@@ -334,11 +351,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540071672,
             "language": "Python",
             "last_commit": "2024-01-16T09:18:11Z",
             "owner": "m1guelpf",
             "repo": "yt-whisper",
-            "stars": 1445
+            "stars": 1446
           }
         },
         {
@@ -348,6 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615270502,
             "language": "Python",
             "last_commit": "2026-02-14T19:16:02Z",
             "owner": "Softcatala",
@@ -362,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706797954,
             "language": "Python",
             "last_commit": "2024-06-08T06:51:47Z",
             "owner": "ochen1",
@@ -376,6 +396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1010999083,
             "language": "Python",
             "last_commit": "2026-07-21T12:22:46Z",
             "owner": "primaprashant",
@@ -390,6 +411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628718018,
             "language": "Python",
             "last_commit": "2025-03-28T20:27:19Z",
             "owner": "platisd",
@@ -401,7 +423,7 @@
       "title": "CLI tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -410,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544445890,
             "language": "Python",
             "last_commit": "2025-09-12T02:54:11Z",
             "owner": "saharmor",
@@ -424,6 +447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544273829,
             "language": "Jupyter Notebook",
             "last_commit": "2024-04-23T19:24:04Z",
             "owner": "ArthurFDLR",
@@ -433,16 +457,12 @@
         }
       ],
       "title": "Playgrounds"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:04:23.837Z",
+    "last_updated": "2026-08-19T12:58:50.605Z",
     "original_repository": "sindresorhus/awesome-whisper",
+    "original_repository_id": 638900030,
     "original_repository_sha": "9fb0f085de291ab3c89034783ab652d33cf70daf",
     "enhanced_repository": "enhansome/enhansome-whisper",
     "enhanced_repository_description": null,

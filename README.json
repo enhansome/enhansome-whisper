@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-18T12:33:22Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53030
+                "stars": 53035
               }
             }
           ],
@@ -31,7 +31,7 @@
             "last_commit": "2026-08-18T12:33:22Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53030
+            "stars": 53035
           }
         },
         {
@@ -46,7 +46,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 24990
+            "stars": 24992
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23645
+            "stars": 23646
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21033
+            "stars": 21038
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-08-19T09:34:53Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 5980
+            "stars": 5985
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2643
+            "stars": 2646
           }
         },
         {
@@ -199,10 +199,10 @@
             "archived": false,
             "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-19T12:07:51Z",
+            "last_commit": "2026-08-19T14:56:31Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1707
+            "stars": 1708
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:50.605Z",
+    "last_updated": "2026-08-19T16:10:50.538Z",
     "original_repository": "sindresorhus/awesome-whisper",
     "original_repository_id": 638900030,
     "original_repository_sha": "9fb0f085de291ab3c89034783ab652d33cf70daf",

@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 541269386,
                 "language": "C++",
-                "last_commit": "2026-08-20T13:59:55Z",
+                "last_commit": "2026-08-21T14:14:32Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53055
+                "stars": 53082
               }
             }
           ],
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-20T13:59:55Z",
+            "last_commit": "2026-08-21T14:14:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53055
+            "stars": 53082
           }
         },
         {
@@ -46,7 +46,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25006
+            "stars": 25021
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23658
+            "stars": 23680
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-10T09:43:12Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21046
+            "stars": 21059
           }
         },
         {
@@ -169,10 +169,10 @@
             "archived": false,
             "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-20T02:46:25Z",
+            "last_commit": "2026-08-21T13:32:34Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6010
+            "stars": 6027
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2654
+            "stars": 2669
           }
         },
         {
@@ -199,10 +199,10 @@
             "archived": false,
             "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-20T15:55:15Z",
+            "last_commit": "2026-08-21T09:53:46Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1712
+            "stars": 1717
           }
         },
         {
@@ -214,10 +214,10 @@
             "archived": false,
             "id": 414686117,
             "language": "C++",
-            "last_commit": "2026-08-20T15:07:39Z",
+            "last_commit": "2026-08-20T18:01:52Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1604
+            "stars": 1607
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-08-04T08:54:54Z",
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 620
+            "stars": 622
           }
         }
       ],
@@ -326,7 +326,7 @@
             "last_commit": "2026-08-15T09:11:27Z",
             "owner": "MahmoudAshraf97",
             "repo": "whisper-diarization",
-            "stars": 5628
+            "stars": 5626
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-02-14T19:16:02Z",
             "owner": "Softcatala",
             "repo": "whisper-ctranslate2",
-            "stars": 1339
+            "stars": 1341
           }
         },
         {
@@ -452,7 +452,7 @@
             "last_commit": "2024-04-23T19:24:04Z",
             "owner": "ArthurFDLR",
             "repo": "whisper-youtube",
-            "stars": 420
+            "stars": 419
           }
         }
       ],
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:13:41.630Z",
+    "last_updated": "2026-08-21T16:13:17.440Z",
     "original_repository": "sindresorhus/awesome-whisper",
     "original_repository_id": 638900030,
     "original_repository_sha": "9fb0f085de291ab3c89034783ab652d33cf70daf",

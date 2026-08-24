@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 541269386,
                 "language": "C++",
-                "last_commit": "2026-08-22T05:14:12Z",
+                "last_commit": "2026-08-24T10:36:17Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53118
+                "stars": 53135
               }
             }
           ],
@@ -28,10 +28,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-22T05:14:12Z",
+            "last_commit": "2026-08-24T10:36:17Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53118
+            "stars": 53135
           }
         },
         {
@@ -46,7 +46,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25051
+            "stars": 25061
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23700
+            "stars": 23718
           }
         },
         {
@@ -154,10 +154,10 @@
             "archived": false,
             "id": 540842713,
             "language": "Python",
-            "last_commit": "2026-08-23T15:42:28Z",
+            "last_commit": "2026-08-23T16:46:15Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21087
+            "stars": 21105
           }
         },
         {
@@ -169,10 +169,10 @@
             "archived": false,
             "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-22T13:50:52Z",
+            "last_commit": "2026-08-24T04:28:32Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6062
+            "stars": 6077
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2690
+            "stars": 2695
           }
         },
         {
@@ -199,10 +199,10 @@
             "archived": false,
             "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-23T14:09:22Z",
+            "last_commit": "2026-08-24T13:26:02Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1721
+            "stars": 1723
           }
         },
         {
@@ -214,10 +214,10 @@
             "archived": false,
             "id": 414686117,
             "language": "C++",
-            "last_commit": "2026-08-20T18:01:52Z",
+            "last_commit": "2026-08-23T17:56:11Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1607
+            "stars": 1608
           }
         },
         {
@@ -241,6 +241,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whisper-Web",
+              "description": "Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937475227,
+                "language": "TypeScript",
+                "last_commit": "2026-03-30T19:01:45Z",
+                "owner": "PierreMesure",
+                "repo": "whisper-web",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hosted"
+        },
         {
           "children": [
             {
@@ -285,7 +307,7 @@
                 "last_commit": "2026-06-30T13:36:08Z",
                 "owner": "beyondcode",
                 "repo": "writeout.ai",
-                "stars": 1525
+                "stars": 1524
               }
             },
             {
@@ -326,7 +348,7 @@
             "last_commit": "2026-08-15T09:11:27Z",
             "owner": "MahmoudAshraf97",
             "repo": "whisper-diarization",
-            "stars": 5626
+            "stars": 5628
           }
         },
         {
@@ -341,7 +363,7 @@
             "last_commit": "2025-11-07T19:21:55Z",
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 3161
+            "stars": 3162
           }
         },
         {
@@ -386,7 +408,7 @@
             "last_commit": "2024-06-08T06:51:47Z",
             "owner": "ochen1",
             "repo": "insanely-fast-whisper-cli",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -457,10 +479,80 @@
         }
       ],
       "title": "Playgrounds"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "use-whisper",
+              "description": "React hook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610373872,
+                "language": "TypeScript",
+                "last_commit": "2024-04-30T12:12:27Z",
+                "owner": "chengsokdara",
+                "repo": "use-whisper",
+                "stars": 786
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        }
+      ],
+      "title": "Packages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discussions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537603333,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107862
+          }
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-chatgpt",
+          "description": "ChatGPT resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635258975,
+            "language": null,
+            "last_commit": "2026-02-15T18:05:30Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-chatgpt",
+            "stars": 6386
+          }
+        }
+      ],
+      "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:00:31.441Z",
+    "last_updated": "2026-08-24T14:05:44.724Z",
     "original_repository": "sindresorhus/awesome-whisper",
     "original_repository_id": 638900030,
     "original_repository_sha": "9fb0f085de291ab3c89034783ab652d33cf70daf",

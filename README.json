@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-25T13:11:32Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53195
+                "stars": 53221
               }
             }
           ],
@@ -31,7 +31,7 @@
             "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53195
+            "stars": 53221
           }
         },
         {
@@ -46,7 +46,7 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25095
+            "stars": 25110
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23758
+            "stars": 23773
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2024-04-03T12:12:52Z",
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4682
+            "stars": 4681
           }
         },
         {
@@ -121,7 +121,7 @@
             "last_commit": "2023-11-06T10:15:05Z",
             "owner": "zhuzilin",
             "repo": "whisper-openvino",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-23T16:46:15Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21143
+            "stars": 21157
           }
         },
         {
@@ -169,10 +169,10 @@
             "archived": false,
             "id": 875661263,
             "language": "Swift",
-            "last_commit": "2026-08-25T17:10:41Z",
+            "last_commit": "2026-08-27T11:50:38Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6113
+            "stars": 6124
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2716
+            "stars": 2725
           }
         },
         {
@@ -199,10 +199,10 @@
             "archived": false,
             "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-26T08:57:36Z",
+            "last_commit": "2026-08-27T11:11:59Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -214,10 +214,10 @@
             "archived": false,
             "id": 414686117,
             "language": "C++",
-            "last_commit": "2026-08-23T17:56:11Z",
+            "last_commit": "2026-08-27T10:49:03Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1607
+            "stars": 1609
           }
         },
         {
@@ -229,10 +229,10 @@
             "archived": false,
             "id": 910022509,
             "language": "Java",
-            "last_commit": "2026-08-26T07:14:06Z",
+            "last_commit": "2026-08-27T10:18:26Z",
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 624
+            "stars": 626
           }
         }
       ],
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-15T09:11:27Z",
             "owner": "MahmoudAshraf97",
             "repo": "whisper-diarization",
-            "stars": 5630
+            "stars": 5631
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2025-11-07T19:21:55Z",
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 3162
+            "stars": 3163
           }
         },
         {
@@ -523,7 +523,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107966
+            "stars": 108003
           }
         }
       ],
@@ -544,7 +544,7 @@
             "last_commit": "2026-02-15T18:05:30Z",
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6387
+            "stars": 6388
           }
         }
       ],
@@ -552,9 +552,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:54.051Z",
-    "original_repository": "sindresorhus/awesome-whisper",
-    "original_repository_id": 638900030,
+    "last_updated": "2026-08-27T12:11:56.151Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 638900030,
+      "language": null,
+      "last_commit": "2026-03-17T12:02:10Z",
+      "owner": "sindresorhus",
+      "repo": "awesome-whisper",
+      "stars": 2374
+    },
     "original_repository_sha": "9fb0f085de291ab3c89034783ab652d33cf70daf",
     "enhanced_repository": "enhansome/enhansome-whisper",
     "enhanced_repository_description": null,

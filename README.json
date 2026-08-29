@@ -20,8 +20,9 @@
                 "last_commit": "2026-08-25T13:11:32Z",
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 53239
-              }
+                "stars": 53260
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             }
           ],
           "repo_info": {
@@ -31,8 +32,9 @@
             "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53239
-          }
+            "stars": 53260
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -46,8 +48,9 @@
             "last_commit": "2025-11-19T14:40:46Z",
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25117
-          }
+            "stars": 25128
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -61,8 +64,9 @@
             "last_commit": "2026-07-13T08:30:07Z",
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 23781
-          }
+            "stars": 23790
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -76,8 +80,9 @@
             "last_commit": "2024-04-03T12:12:52Z",
             "owner": "sanchit-gandhi",
             "repo": "whisper-jax",
-            "stars": 4681
-          }
+            "stars": 4680
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -92,7 +97,8 @@
             "owner": "linto-ai",
             "repo": "whisper-timestamped",
             "stars": 2841
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -107,7 +113,8 @@
             "owner": "YuanGongND",
             "repo": "whisper-at",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -122,7 +129,8 @@
             "owner": "zhuzilin",
             "repo": "whisper-openvino",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -137,7 +145,8 @@
             "owner": "moonshine-ai",
             "repo": "openai-whisper",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         }
       ],
       "title": "Model variants"
@@ -154,11 +163,12 @@
             "archived": false,
             "id": 540842713,
             "language": "Python",
-            "last_commit": "2026-08-23T16:46:15Z",
+            "last_commit": "2026-08-28T16:01:40Z",
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 21163
-          }
+            "stars": 21178
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -172,8 +182,9 @@
             "last_commit": "2026-08-27T17:11:37Z",
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 6131
-          }
+            "stars": 6159
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -187,8 +198,9 @@
             "last_commit": "2026-08-10T19:05:31Z",
             "owner": "Starmel",
             "repo": "OpenSuperWhisper",
-            "stars": 2728
-          }
+            "stars": 2734
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -199,11 +211,12 @@
             "archived": false,
             "id": 1156604835,
             "language": "Swift",
-            "last_commit": "2026-08-27T16:40:25Z",
+            "last_commit": "2026-08-28T17:40:02Z",
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1739
-          }
+            "stars": 1744
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -217,8 +230,9 @@
             "last_commit": "2026-08-27T10:49:03Z",
             "owner": "mkiol",
             "repo": "dsnote",
-            "stars": 1611
-          }
+            "stars": 1614
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -232,8 +246,9 @@
             "last_commit": "2026-08-27T10:18:26Z",
             "owner": "woheller69",
             "repo": "whisperIME",
-            "stars": 627
-          }
+            "stars": 626
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         }
       ],
       "title": "Apps"
@@ -256,7 +271,8 @@
                 "owner": "PierreMesure",
                 "repo": "whisper-web",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             }
           ],
           "description": null,
@@ -278,7 +294,8 @@
                 "owner": "schibsted",
                 "repo": "WAAS",
                 "stars": 2075
-              }
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "absadiki",
                 "repo": "subsai",
                 "stars": 1682
-              }
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "beyondcode",
                 "repo": "writeout.ai",
                 "stars": 1525
-              }
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "serg-plusplus",
                 "repo": "meeper",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             }
           ],
           "description": null,
@@ -349,7 +369,8 @@
             "owner": "MahmoudAshraf97",
             "repo": "whisper-diarization",
             "stars": 5632
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -363,8 +384,9 @@
             "last_commit": "2025-11-07T19:21:55Z",
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 3164
-          }
+            "stars": 3167
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -379,7 +401,8 @@
             "owner": "m1guelpf",
             "repo": "yt-whisper",
             "stars": 1446
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -394,7 +417,8 @@
             "owner": "Softcatala",
             "repo": "whisper-ctranslate2",
             "stars": 1344
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -409,7 +433,8 @@
             "owner": "ochen1",
             "repo": "insanely-fast-whisper-cli",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -424,7 +449,8 @@
             "owner": "primaprashant",
             "repo": "hns",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -439,7 +465,8 @@
             "owner": "platisd",
             "repo": "phonix",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         }
       ],
       "title": "CLI tools"
@@ -459,8 +486,9 @@
             "last_commit": "2025-09-12T02:54:11Z",
             "owner": "saharmor",
             "repo": "whisper-playground",
-            "stars": 834
-          }
+            "stars": 835
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         },
         {
           "node_type": "item",
@@ -475,7 +503,8 @@
             "owner": "ArthurFDLR",
             "repo": "whisper-youtube",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         }
       ],
       "title": "Playgrounds"
@@ -498,7 +527,8 @@
                 "owner": "chengsokdara",
                 "repo": "use-whisper",
                 "stars": 786
-              }
+              },
+              "first_seen": "2026-08-29T00:08:46.138Z"
             }
           ],
           "description": null,
@@ -523,8 +553,9 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108031
-          }
+            "stars": 108084
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         }
       ],
       "title": "Community"
@@ -544,15 +575,16 @@
             "last_commit": "2026-02-15T18:05:30Z",
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6389
-          }
+            "stars": 6390
+          },
+          "first_seen": "2026-08-29T00:08:46.138Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:37:15.764Z",
+    "last_updated": "2026-08-29T00:08:46.138Z",
     "original_repository_info": {
       "archived": false,
       "id": 638900030,

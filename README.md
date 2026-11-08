@@ -40,30 +40,30 @@
 ## Official
 
 * [Introduction](https://openai.com/research/whisper)
-* [Source code](https://github.com/openai/whisper) ⭐ 112,178 | 🐛 181 | 🌐 Python | 📅 2026-08-31
+* [Source code](https://github.com/openai/whisper) ⭐ 112,246 | 🐛 182 | 🌐 Python | 📅 2026-08-31
 * [White paper](https://cdn.openai.com/papers/whisper.pdf)
 
 ## Model variants
 
-* [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 55,000 | 🐛 361 | 🌐 C++ | 📅 2026-11-07 - Port of Whisper in C++.
-  * [Bindings for many languages](https://github.com/ggerganov/whisper.cpp#bindings) ⭐ 55,000 | 🐛 361 | 🌐 C++ | 📅 2026-11-07
-* [faster-whisper](https://github.com/guillaumekln/faster-whisper) ⭐ 26,569 | 🐛 18 | 🌐 Python | 📅 2026-11-06 - Faster reimplementation of Whisper using CTranslate2.
-* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 25,143 | 🐛 218 | 🌐 Python | 📅 2026-10-22 - Adds fast automatic speaker recognition with word-level timestamps and speaker diarization.
+* [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) ⭐ 55,021 | 🐛 361 | 🌐 C++ | 📅 2026-11-08 - Port of Whisper in C++.
+  * [Bindings for many languages](https://github.com/ggerganov/whisper.cpp#bindings) ⭐ 55,021 | 🐛 361 | 🌐 C++ | 📅 2026-11-08
+* [faster-whisper](https://github.com/guillaumekln/faster-whisper) ⭐ 26,595 | 🐛 20 | 🌐 Python | 📅 2026-11-06 - Faster reimplementation of Whisper using CTranslate2.
+* [WhisperX](https://github.com/m-bain/whisperX) ⭐ 25,152 | 🐛 218 | 🌐 Python | 📅 2026-10-22 - Adds fast automatic speaker recognition with word-level timestamps and speaker diarization.
 * [Whisper JAX](https://github.com/sanchit-gandhi/whisper-jax) ⭐ 4,679 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2024-04-03 - JAX implementation of Whisper for up to 70x speed-up on TPU.
-* [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) ⭐ 2,860 | 🐛 52 | 🌐 Python | 📅 2026-09-28 - Adds word-level timestamps and confidence scores.
-* [Whisper-AT](https://github.com/YuanGongND/whisper-at) ⭐ 428 | 🐛 29 | 🌐 Python | 📅 2024-02-21 - Whisper that can recognize non-speech audio events in addition to speech.
+* [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) ⭐ 2,861 | 🐛 52 | 🌐 Python | 📅 2026-09-28 - Adds word-level timestamps and confidence scores.
+* [Whisper-AT](https://github.com/YuanGongND/whisper-at) ⭐ 429 | 🐛 29 | 🌐 Python | 📅 2024-02-21 - Whisper that can recognize non-speech audio events in addition to speech.
 * [whisper-openvino](https://github.com/zhuzilin/whisper-openvino) ⭐ 184 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-06 - Whisper running on OpenVINO.
 * [whisper.tflite](https://github.com/usefulsensors/openai-whisper) ⚠️ Archived - Whisper running on TensorFlow Lite.
 * [Whisper variants](https://huggingface.co/models?other=whisper) - Various Whisper variants on Hugging Faces.
 
 ## Apps
 
-* [Buzz](https://github.com/chidiwilliams/Buzz) ⭐ 22,481 | 🐛 21 | 🌐 Python | 📅 2026-11-07 - Audio transcription and translation macOS app.
-* [VoiceInk](https://github.com/Beingpax/VoiceInk) ⭐ 7,045 | 🐛 156 | 🌐 Swift | 📅 2026-11-07 - Dictation and transcription macOS app. (FOSS)
-* [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) ⭐ 3,133 | 🐛 99 | 🌐 Swift | 📅 2026-11-03 - Dictation app for macOS. (FOSS)
-* [TypeWhisper](https://github.com/TypeWhisper/typewhisper-mac) ⭐ 1,909 | 🐛 66 | 🌐 Swift | 📅 2026-11-07 - Local speech-to-text transcription for macOS and Windows with system-wide dictation.
+* [Buzz](https://github.com/chidiwilliams/Buzz) ⭐ 22,516 | 🐛 21 | 🌐 Python | 📅 2026-11-07 - Audio transcription and translation macOS app.
+* [VoiceInk](https://github.com/Beingpax/VoiceInk) ⭐ 7,051 | 🐛 157 | 🌐 Swift | 📅 2026-11-07 - Dictation and transcription macOS app. (FOSS)
+* [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) ⭐ 3,134 | 🐛 99 | 🌐 Swift | 📅 2026-11-03 - Dictation app for macOS. (FOSS)
+* [TypeWhisper](https://github.com/TypeWhisper/typewhisper-mac) ⭐ 1,912 | 🐛 66 | 🌐 Swift | 📅 2026-11-08 - Local speech-to-text transcription for macOS and Windows with system-wide dictation.
 * [Speech Note](https://github.com/mkiol/dsnote) ⭐ 1,709 | 🐛 151 | 🌐 C++ | 📅 2026-11-05 - Audio transcription Linux app.
-* [Whisper](https://github.com/woheller69/whisperIME) ⭐ 656 | 🐛 23 | 🌐 Java | 📅 2026-10-28 - Android app for transcription and translation. (FOSS)
+* [Whisper](https://github.com/woheller69/whisperIME) ⭐ 658 | 🐛 23 | 🌐 Java | 📅 2026-10-28 - Android app for transcription and translation. (FOSS)
 * [Aiko](https://sindresorhus.com/aiko) - Audio transcription iOS and macOS app.
 * [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - Audio transcription macOS app. (Freemium)
 * [Whisper Memos](https://apps.apple.com/app/id6443658039) - Audio transcription iOS app. (Freemium)
@@ -134,7 +134,7 @@
 
 ## Community
 
-* [Discussions](https://github.com/openai/whisper/discussions) ⭐ 112,178 | 🐛 181 | 🌐 Python | 📅 2026-08-31
+* [Discussions](https://github.com/openai/whisper/discussions) ⭐ 112,246 | 🐛 182 | 🌐 Python | 📅 2026-08-31
 * [Discord](https://discord.com/invite/openai)
 
 ## Third-party APIs
@@ -146,8 +146,8 @@
 
 ## Related lists
 
-* [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,490 | 🐛 6 | 📅 2026-02-15 - ChatGPT resources.
+* [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,491 | 🐛 6 | 📅 2026-02-15 - ChatGPT resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

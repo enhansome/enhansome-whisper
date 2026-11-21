@@ -24,7 +24,7 @@
                 "open_issues": 369,
                 "owner": "ggml-org",
                 "repo": "whisper.cpp",
-                "stars": 55373,
+                "stars": 55404,
                 "topics": [
                   "inference",
                   "openai",
@@ -48,7 +48,7 @@
             "open_issues": 369,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 55373,
+            "stars": 55404,
             "topics": [
               "inference",
               "openai",
@@ -76,7 +76,7 @@
             "open_issues": 19,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26905,
+            "stars": 26929,
             "topics": [
               "deep-learning",
               "inference",
@@ -102,11 +102,11 @@
             "id": 576103395,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-12T17:34:05Z",
-            "open_issues": 220,
+            "last_commit": "2026-11-21T12:32:21Z",
+            "open_issues": 223,
             "owner": "m-bain",
             "repo": "whisperX",
-            "stars": 25537,
+            "stars": 25572,
             "topics": [
               "asr",
               "speech",
@@ -281,7 +281,7 @@
             "open_issues": 18,
             "owner": "chidiwilliams",
             "repo": "buzz",
-            "stars": 22942,
+            "stars": 22963,
             "topics": [
               "whisper"
             ]
@@ -301,10 +301,10 @@
             "language": "Swift",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T04:32:50Z",
-            "open_issues": 173,
+            "open_issues": 174,
             "owner": "Beingpax",
             "repo": "VoiceInk",
-            "stars": 7168,
+            "stars": 7176,
             "topics": [
               "macos",
               "macos-app",
@@ -351,11 +351,11 @@
             "id": 1156604835,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T19:38:21Z",
+            "last_commit": "2026-11-21T16:43:58Z",
             "open_issues": 75,
             "owner": "TypeWhisper",
             "repo": "typewhisper-mac",
-            "stars": 1938,
+            "stars": 1939,
             "topics": [
               "apple-silicon",
               "dictation",
@@ -637,7 +637,7 @@
             "open_issues": 10,
             "owner": "Purfview",
             "repo": "whisper-standalone-win",
-            "stars": 3244,
+            "stars": 3245,
             "topics": [
               "asr",
               "ctranslate2",
@@ -919,7 +919,7 @@
             "open_issues": 187,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 113176,
+            "stars": 113238,
             "topics": []
           },
           "first_seen": "2026-08-29T00:08:46.138Z"
@@ -946,7 +946,7 @@
             "open_issues": 6,
             "owner": "sindresorhus",
             "repo": "awesome-chatgpt",
-            "stars": 6502,
+            "stars": 6504,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -966,7 +966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:22:25.067Z",
+    "last_updated": "2026-11-21T21:12:56.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI",
